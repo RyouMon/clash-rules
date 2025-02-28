@@ -1,0 +1,3 @@
+payload:
+  - DOMAIN-SUFFIX,sub.obs.ci
+  - DOMAIN-SUFFIX,mmti.one
